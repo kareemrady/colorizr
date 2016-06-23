@@ -49,6 +49,10 @@ Creating my first gem as part of the udacity nanodegree track
 
 ## Installation
 
+Clone or download File locally
+
+CD to the colorizr root file and type
+
 **gem install colorizr-0.0.1.gem**
 
 
