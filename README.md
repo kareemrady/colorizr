@@ -4,7 +4,7 @@ A Simple Gem to Colorize Text in the terminal output
 ## Code Example
 ```ruby
 require 'colorize'
-String.create_colors
+
 ```
 ``` ruby
   "This is a message in Red!".red
@@ -21,7 +21,7 @@ String.create_colors
 
 
 ```ruby
-  String.color #shows an array of all colors available for use
+  String.colors #shows an array of all colors available for use
 ```
 ```
   [:red, :green, :yellow, :blue, :pink, :light_blue, :white, :light_grey, :black]
