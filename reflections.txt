@@ -1,6 +1,8 @@
+How does your gem take advantage of Ruby’s metaprogramming capabilities?
+used  define_method to create a method for each color on the fly without having to type each method and its return string
 How long did you spend working on this project?
 1 hr
 What was the most rewarding challenge you conquered?
-Using metaprogramming to define methods on the fly
+Using metaprogramming to define methods on the fly, and formatting a README.md file for the first time
 Where do you still have room to grow?
 More metaprogramming practice
